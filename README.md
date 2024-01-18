@@ -1,5 +1,21 @@
 ### Hello World! 👋
 #### Front-End Web Developer | Building Bridges to Full Stack Proficiency | Merging Creativity and Technology
+
+## 🚀 Technical Skills
+### Languages: JavaScript, C++, Python, Java
+### Web Development
+#### Frontend stack - HTML, CSS, React, Tailwind
+#### Backend stack - Node.js, Express.js, php, flask
+### Databases: MySQL, PostgreSQL
+### Tools: Git, Postman
+### UI/UX Design: Figma, Canva
+
+
+
+
+
+
+
 <!--
 
 - 🔭 I’m currently working on ...
