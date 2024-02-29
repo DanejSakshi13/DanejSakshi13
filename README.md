@@ -8,8 +8,7 @@
 #### Backend stack - Node.js, Express.js, php, flask
 ### Databases: MySQL, PostgreSQL
 ### Tools: Git, Postman
-### UI/UX Design: Figma, Canva
-
+### UI/UX Design: Figma
 
 
 
